@@ -85,7 +85,7 @@ body {
   padding: 15px 30px 30px 20px;
   /*background: #a4b5bf;*/
 
-  background: rgba(164,181,191,0.1) url('../images/pexels-sharon-mccutcheon-1191710.jpg') no-repeat fixed top;
+  background: rgba(164,181,191,0.1) url('https://109n.github.io/109N.github.io/pexels-sharon-mccutcheon-1191710.jpg') no-repeat fixed top;
   display: flex;
   position:relative;
   align-items: center;
@@ -152,7 +152,7 @@ body {
  * -------------------------------- */
 .site-title-section {
   padding: 35px 30px 45px 0px;
-  background: rgba(0,150,150,0.5) url('../images/pexels-francesco-paggiaro-2111016.jpg') no-repeat fixed center top;
+  background: rgba(0,150,150,0.5) url('https://109n.github.io/109N.github.io/pexels-francesco-paggiaro-2111016.jpg') no-repeat fixed center top;
 }
 .site-title {
   margin: 20px 0 20px 0;
@@ -164,7 +164,7 @@ body {
  * -------------------------------- */
 .about {
   padding: 80px 30px;
-  background:url('../images/pexels-negative-space-169573.jpg') no-repeat fixed center;
+  background:url('https://109n.github.io/109N.github.io/pexels-negative-space-169573.jpg') no-repeat fixed center;
 } ;
   /*color: #333;*/
 }
@@ -183,7 +183,7 @@ body {
   bottom: 20px;
   /*background: #a4b5bf;*/
   background:rgba(255, 255, 255, 0.5);
-  background: #151515 url('../images/pexels-luis-gomes-546819.jpg') no-repeat fixed  center;
+  background: #151515 url('https://109n.github.io/109N.github.io/pexels-luis-gomes-546819.jpg') no-repeat fixed  center;
 }
 .works-wrapper {
   display: table;
@@ -298,7 +298,7 @@ body {
  * -------------------------------- */
 .skills {
   padding: 80px 0;
-  background: #fff url('../images/pexels-lukas-669615.jpg') no-repeat fixed  center;
+  background: #fff url('https://109n.github.io/109N.github.io/pexels-lukas-669615.jpg') no-repeat fixed  center;
   color: #333;
 }
 .skills-wrapper {
@@ -382,7 +382,7 @@ body {
 .footer {
   padding: 20px 0;
   font-size: 1.3rem;
-  background: rgba(164,181,191,0.1) url('../images/pexels-sharon-mccutcheon-1191710.jpg') no-repeat fixed bottom;
+  background: rgba(164,181,191,0.1) url('https://109n.github.io/109N.github.io/pexels-sharon-mccutcheon-1191710.jpg') no-repeat fixed bottom;
 }
 
 
